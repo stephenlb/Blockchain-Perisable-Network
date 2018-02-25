@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.blockchain {
+    text-align: left;
+}
+
+.btn {
+    margin-right: 10px;
+}
