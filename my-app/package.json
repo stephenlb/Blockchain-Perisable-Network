@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "3",
     "pubnub": "^4.20.1",
     "pubnub-react": "^1.2.0",
